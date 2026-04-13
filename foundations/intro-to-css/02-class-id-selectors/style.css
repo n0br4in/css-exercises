@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd {
+    background-color: pink;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+.secondelement {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.thirdelement {
+    font-size: 24px;
+}
+
+.forthelement {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
